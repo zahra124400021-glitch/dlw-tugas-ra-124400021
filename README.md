@@ -9,7 +9,7 @@ Tugas Workshop Deep Learning — Teknik Telekomunikasi ITERA.
 | Peran | Nama | NIM |
 |---|---|---|
 | Ketua | [Zahra Shakilla | [124400021] |
-| Anggota | [M. Rifky] | [124400033] |
+
 
 
 - **Kelas:** [RA]
